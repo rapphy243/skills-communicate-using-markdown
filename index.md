@@ -6,3 +6,7 @@
 ###### This is a H6 Header
 
 ![Image of a Cat](https://placekitten.com/200/300)
+
+``` java
+public class Cat()
+```
